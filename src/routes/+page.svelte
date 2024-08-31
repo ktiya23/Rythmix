@@ -1,4 +1,5 @@
 <script>
+	import App from "./App.svelte";
 </script>
 
 <svelte:head>
@@ -6,4 +7,4 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<h1>Hello, World!</h1>
+<App />
