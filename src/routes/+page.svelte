@@ -1,5 +1,6 @@
 <script>
 	import App from "./App.svelte";
+	import Login from "./Login.svelte";
 </script>
 
 <svelte:head>
@@ -8,3 +9,4 @@
 </svelte:head>
 
 <App />
+<Login />
